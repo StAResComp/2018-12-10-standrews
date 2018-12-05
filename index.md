@@ -5,7 +5,7 @@ venue: "University of St Andrews"        # brief name of host site without addre
 address: "School of Medicine, University of St Andrews, North Haugh, St Andrews, Fife, KY16 9TF. Scotland UK"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "56.339324,-2.793983"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "56.340783,-2.807981"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Dec 10-11, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:30 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-12-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
