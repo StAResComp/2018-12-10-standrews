@@ -227,7 +227,11 @@ eventbrite: "52254244853"          # optional: alphanumeric key for Eventbrite r
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use these collaborative documents for chatting, taking notes, and sharing URLs and bits of code:
+  <ul>
+    <li><a href="https://pad.carpentries.org/2018-12-10-standrews-1">Room 1</a></li> 
+    <li><a href="https://pad.carpentries.org/2018-12-10-standrews-2">Room 3</a></li>
+  </ul>    
 </p>
 {% endif %}
 
