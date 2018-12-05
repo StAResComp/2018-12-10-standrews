@@ -230,7 +230,7 @@ eventbrite: "52254244853"          # optional: alphanumeric key for Eventbrite r
   We will use these collaborative documents for chatting, taking notes, and sharing URLs and bits of code:
   <ul>
     <li><a href="https://pad.carpentries.org/2018-12-10-standrews-1">Room 1</a></li> 
-    <li><a href="https://pad.carpentries.org/2018-12-10-standrews-2">Room 3</a></li>
+    <li><a href="https://pad.carpentries.org/2018-12-10-standrews-2">Room 2</a></li>
   </ul>    
 </p>
 {% endif %}
